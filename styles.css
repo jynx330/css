@@ -1,0 +1,48 @@
+p{
+    font-weight: bold;
+    color: blue;
+    font-size: x-large;
+}
+
+h4{
+    color: red;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+#header{
+    color: blueviolet;
+}
+
+.what{
+    color: greenyellow;
+}
+
+h4.what{
+    font-weight: bolder;
+}
+
+h3,h5{
+    color: brown;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+
+}
+
+.overlay {
+    opacity: .67;
+}
+
+body{
+    background-image: url('https://www.mobileslots4u.co.uk/wp-content/themes/mobileslots/images/exclusive-stamp-300x240.png');
+    background-repeat: repeat-x;
+}
+
+h5{
+    color: chartreuse; !important
+}
